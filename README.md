@@ -83,8 +83,9 @@
 <code><a href="https://github.com/antoniomardoness98?tab=repositories">
   <img align="center" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomardoness98&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='Antonio lenguajes favoritos" />
-            </a></code>
+/>
+            </a>
+     </code>
   
 <code><a href="https://github.com/antoniomardoness98">
   <img align="center"
