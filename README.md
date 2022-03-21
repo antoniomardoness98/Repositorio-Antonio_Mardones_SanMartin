@@ -6,41 +6,21 @@
 
 
 <!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code
+<p align="center">El único modo de hacer un gran trabajo, es amar lo que haces.
   
   <!-- Social Network -->
 <h1 align="center">
-<a href="https://www.instagram.com/lunox.code/">
+<a href="https://www.instagram.com/1998.tsk/">
   <img align="center" 
-       alt="Lunox's Instagram" 
+       alt="1998_tsk Instagram" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
   
-<a href="https://www.linkedin.com/in/lunox/">
-  <img align="center" 
-       alt="Linkdein" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
-  </a>
-
-  <a href="https://www.codegrepper.com/app/profile.php?id=79189">
-  <img align="center" 
-       alt="Grepper" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146498-0b537600-4710-11eb-949e-bff2c2ab7391.png" />
-  </a>
   
-<a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">
+<a href="mailto:antonio.mardones98@hotmail.com">
   <img align="center" 
-       alt="Stack Overflow" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146236-e52bd700-470b-11eb-861e-e6f549b02b88.png" />
-  </a>
-  
-<a href="mailto:lunox.code@gmail.com">
-  <img align="center" 
-       alt="Gmail" 
+       alt="Hotmail" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
   </a>
@@ -58,7 +38,7 @@
 &nbsp;
 
 <!-- Technical Skills -->
-<p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
+<p><H3 align="center"><strong> Habilidades: 💻 </strong></p>
   
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
@@ -111,10 +91,10 @@
 <a href="https://github.com/Lunox-code?tab=repositories">
   <img align="center" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='Lunox's favorite languages" />
+       alt='Antonio lenguajes favoritos" />
 </a>
   
-<a href="https://github.com/Lunox-code">
+<a href="https://github.com/antoniomardoness98">
   <img align="center"
        src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
